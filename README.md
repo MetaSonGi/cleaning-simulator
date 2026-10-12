@@ -1,4 +1,13 @@
-# 🧽 싹싹 청소 시뮬레이터
+# 🧹 청소 시뮬레이터 | Cleaning Simulator
+
+> 문질러 닦는 청소 게임 — 5 스테이지·별점  
+> Scrub-cleaning game with 5 stages and star ratings
+
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=flat-square)](https://metasongi.github.io/cleaning-simulator/) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+
+🌐 **Live:** https://metasongi.github.io/cleaning-simulator/
+
+---
 
 문질러 문질러! 더러운 물건의 때를 벗겨내는 만족감형 원터치 청소 게임입니다.
 손가락(모바일)이나 마우스(PC)로 드래그해서 때를 지우면 깨끗한 밑그림이 드러납니다.
@@ -42,3 +51,9 @@
 `index.html`을 브라우저에서 열거나 GitHub Pages로 배포하면 바로 플레이할 수 있습니다.
 
 - 라이브: https://metasongi.github.io/cleaning-simulator/
+
+---
+
+## English Summary
+
+Scrub-cleaning game with 5 stages and star ratings.
